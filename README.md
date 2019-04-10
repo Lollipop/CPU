@@ -19,4 +19,4 @@
 
 
 ## 设计原理图
-!()
+!(https://github.com/Liuximi/CPU/blob/master/MIPS%E5%A4%9A%E5%91%A8%E6%9C%9F%E6%B5%81%E6%B0%B4%E5%8C%96%E5%A4%84%E7%90%86%E5%99%A8%20%E8%AE%BE%E8%AE%A1%E5%9B%BE.jpg)
